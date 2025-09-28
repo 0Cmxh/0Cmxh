@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚀 Welcome to My Crypto Universe
+# 🚀 Welcome to My Crypto Hub
 ### Building the Future of Web3, One Block at a Time
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4AA&center=true&vCenter=true&width=435&lines=Blockchain+Developer;Smart+Contract+Architect;DeFi+Innovator;Web3+Builder;Crypto+Enthusiast" alt="Typing SVG" />
